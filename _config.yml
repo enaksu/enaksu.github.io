@@ -1,8 +1,8 @@
 # Site settings
-title:          Tale
+title:          Enaksu
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        ""
-url:            "https://chesterhow.github.io"
+url:            "https://enaksu.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -10,8 +10,8 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  url:          https://enaksu.github.io
+  email:        enaksu@gmail.com
 
 # Build settings
 markdown:       kramdown
